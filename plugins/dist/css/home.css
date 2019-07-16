@@ -1,9 +1,10 @@
 body{
-  background: rebeccapurple;
+  background: rgb(51, 121, 153);
   display: flex;
   justify-content: center;
   align-items: center;
   color: white;
   font-size: 24px;
-  min-height: 100vh;
+  margin: 0 auto;
+  height: 100vh;
 }
