@@ -1,0 +1,15 @@
+body{
+  background: rgb(51, 121, 153);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 24px;
+  margin: 0 auto;
+  height: 100vh;
+  font-family: system-ui;
+  color: white;
+  text-shadow: 1px 1px 1px black;
+  animation: 300ms latido infinite;
+}
+
